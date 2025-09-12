@@ -7,7 +7,7 @@ This project fine-tunes DistilBERT
 
 It demonstrates how to:  
 
-1. Load and preprocess data with 🤗 Datasets
+1. Load and preprocess data with 🤗  Datasets
 2. Tokenize text for DistilBERT
 3. Fine-tune with 🤗 Trainer API
 4. Evaluate with Accuracy & F1-macro
